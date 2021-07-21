@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'cxsupport-test-api'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_52b8d6448d93454485c0e6cabf605871 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b5fb0a8b22e146629ac4712d12af57d8 }}
